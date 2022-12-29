@@ -6,6 +6,7 @@ This repository was creating in hopes of understanding neural networks, more on 
 ![image](https://user-images.githubusercontent.com/97798919/210004938-1c624690-f8b2-4b0a-84c0-a962129ee8c6.png)
 
 You're able to draw onto the black canvas by right clicking and simply dragging your mouse.
+**IMPORTANT** ==> You may need to wait several minutes in order for the model to train.
 
 # Keys:
   C   => Clears the screen
