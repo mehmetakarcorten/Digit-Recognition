@@ -9,8 +9,8 @@ You're able to draw onto the black canvas by right clicking and simply dragging 
 **IMPORTANT** ==> You may need to wait several minutes in order for the model to train.
 
 # Keys:
-  C   => Clears the screen\n
-  ESC => Stops prediction and drawing capabilities
+ C   => Clears the screen
+ ESC => Stops prediction and drawing capabilities
 
 # Training the model:
   You can access the .env file in the file structure and change the EPOCHS variable in order to train a fresh model. Do not tamper with the MODEL_SHAPE nor delete the .env!
