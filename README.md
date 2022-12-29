@@ -10,6 +10,7 @@ You're able to draw onto the black canvas by right clicking and simply dragging 
 
 # Keys:
  C   => Clears the screen
+ <br>
  ESC => Stops prediction and drawing capabilities
 
 # Training the model:
