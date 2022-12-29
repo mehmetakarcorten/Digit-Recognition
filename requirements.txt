@@ -1,0 +1,4 @@
+tensorflow
+numpy
+pygame==2.0.0
+python-dotenv
