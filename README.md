@@ -14,6 +14,9 @@ You're able to draw onto the black canvas by right clicking and simply dragging 
 # Training the model:
   You can access the .env file in the file structure and change the EPOCHS variable in order to train a fresh model. Do not tamper with the MODEL_SHAPE nor delete the .env!
 
+# Credits
+By Mehmet Akarcorten
+
 Of course this is no way near perfect, as with any neural model nor the greatest approach when trying to understand hand-drawn digits or even text.
 
 You're free to pull requests and thread for issues and I'll be happy to help.
