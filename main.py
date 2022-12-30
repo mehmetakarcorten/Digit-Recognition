@@ -1,12 +1,12 @@
+import pip
+pip.main(['install','-r','requirements.txt'])
+
 import pygame
 import sys
 import math
 import numpy as np
 import model
-import pip
 from time import sleep
-
-pip.main(['install','-r','requirements.txt'])
 
 clamp = lambda a,b,c : min(max(a,b),c)
 
