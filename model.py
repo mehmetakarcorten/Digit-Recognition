@@ -3,7 +3,6 @@ import tensorflow
 import numpy as np
 import dotenv
 import shutil
-import tkinter
 import logging
 
 tensorflow.get_logger().setLevel(logging.ERROR)
